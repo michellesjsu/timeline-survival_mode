@@ -1,0 +1,5 @@
+/* Make TimelineJS timeline/navigation area transparent */
+.tl-timenav {
+    background-color: transparent !important;
+    border-top: none !important;
+}
